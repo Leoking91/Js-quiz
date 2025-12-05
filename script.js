@@ -47,3 +47,4 @@ nextBtn.addEventListener("click", () => {
 // if data correct is false change option style to red and highlight correct one green
 //enable next question button
 //if next question is last question enable show results button
+// end of code
