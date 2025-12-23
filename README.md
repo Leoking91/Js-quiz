@@ -1,3 +1,3 @@
-A simple JavaScript quiz app that allows users to answer multiple-choice questions with correct answers being highlighted green and incorrect answers will be highlighted red but will show which answer was correct. Next question button will be disabled until answer is selected and the finale score will be showed at the end followed by a reset quiz button. 
+A simple JavaScript quiz app that allows users to answer multiple-choice questions with correct answers being highlighted green and incorrect answers will be highlighted red but will show which answer was correct. Next question button will be disabled until answer is selected and the finale score will be showed at the end followed by a reset quiz button.
 It was built with HTML, CSS, and JavaScript and is a web broser based application. 
 To access either copy and paste in vs code and open live server or download file and double click quiz.html to open in broswer. Once open enjoy the interactive Javascript quiz.
