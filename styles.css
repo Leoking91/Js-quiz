@@ -79,8 +79,16 @@ li {
   cursor: pointer;
 }
 
+.nav-btn:disabled {
+  background: #adaeb2;
+}
+
 .nav-btn:hover {
   background: #163bb5;
+}
+
+.nav-btn:disabled:hover {
+  background: #adaeb2;
 }
 
 #results-screen {
